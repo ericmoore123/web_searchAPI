@@ -16,5 +16,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmoore123/web_searchAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ericmoore123/web_searchAPI/issues"
+  },
+  "homepage": "https://github.com/ericmoore123/web_searchAPI#readme"
 }
