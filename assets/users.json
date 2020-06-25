@@ -1,0 +1,26 @@
+[
+    {
+        "id": 100,
+        "name": "Eric Moore",
+        "sex": "Male",
+        "age": 20,
+        "occupation": "Internal Communications Officer",
+        "specialization": "Javascript"
+    },
+    {
+        "id": 200,
+        "name": "Jake Sanderson",
+        "sex": "Male",
+        "age": 18,
+        "occupation": "Hockey player",
+        "specialization": "Defense"
+    },
+    {
+        "id": 300,
+        "name": "Mark Stone",
+        "sex": "Male",
+        "age": 32,
+        "occupation": "NHL hockey player",
+        "specialization": "turnovers"
+    }
+]
